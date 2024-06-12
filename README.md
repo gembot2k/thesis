@@ -4,7 +4,7 @@ Contactless Respiratory Rate Measurement with FMCW Radar and XGBoost
 
 ## Projects Structure
 ### code
-Contains code to run this thesis, from data acquisition to predict the respiratory rate using FMCW radar and Machine Learning XGBoost.
+Contains python and jupyter code, from data acquisition to respiratory rate predictions using various ML models include XGBoost.
 
 ### dataset
 Contains IQ data from FMCW radar that split into 2 dataset, radar-train for training and radar-test for test and validation dataset.
