@@ -1,5 +1,5 @@
 # Thesis
-Contactless Respiratory Rate Measurement with FMCW Radar and XGBoos
+Contactless Respiratory Rate Measurement with FMCW Radar and XGBoost
 
 
 ## Projects Structure
