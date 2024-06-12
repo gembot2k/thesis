@@ -1,0 +1,8 @@
+pyserial
+numpy
+pandas
+scikit-learn
+matplotlib
+pywavelets
+xgboost
+jupyter
